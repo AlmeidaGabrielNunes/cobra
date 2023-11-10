@@ -4,4 +4,4 @@ raiz = math.pow(num, 1/2)
 
 print('O número digitado: ', num) 
 print('O dobro dele é', num*2) 
-print('Quadrado de {} é {} '.format(num,raiz)) 
+print('A raiz de {} é {} '.format(num,raiz)) 
